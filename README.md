@@ -20,4 +20,17 @@ Includes feature engineering, linear regression, and evaluation.
 - Number of votes and meta score contribute to success
 - Linear Regression provides a baseline; tree-based models can improve accuracy
 
-## 📂 Project Structure
+## 🤖 Machine Learning Model
+
+Model used: Linear Regression
+
+### Evaluation:
+- RMSE: (your value)
+- R² Score: (your value)
+
+### Key Predictors:
+- Number of votes
+- Meta score
+- Runtime
+
+
